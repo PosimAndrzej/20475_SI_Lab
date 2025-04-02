@@ -1,1 +1,2 @@
-# 20475_SI_Lab
+# Sztuczna Inteligencja Laboratoria
+# Autor: Posim Andrzej 20475
